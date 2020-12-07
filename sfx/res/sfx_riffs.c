@@ -1,0 +1,43 @@
+#include "sfx_riffs.h"
+
+// Riff audio.
+const u8 sfx_riff_00[81408] = { 0 };
+const u8 sfx_riff_03[50944] = { 0 };
+const u8 sfx_riff_04[60160] = { 0 };
+const u8 sfx_riff_07[64256] = { 0 };
+const u8 sfx_riff_09[98048] = { 0 };
+const u8 sfx_riff_12[59648] = { 0 };
+const u8 sfx_riff_15[67072] = { 0 };
+const u8 sfx_riff_18[86016] = { 0 };
+const u8 sfx_riff_21[92928] = { 0 };
+const u8 sfx_riff_23[62976] = { 0 };
+const u8 sfx_riff_30[68864] = { 0 };
+const u8 sfx_riff_32[56064] = { 0 };
+const u8 sfx_riff_33[56832] = { 0 };
+const u8 sfx_riff_34[99840] = { 0 };
+const u8 sfx_riff_41[54272] = { 0 };
+const u8 sfx_riff_52[97024] = { 0 };
+const u8 sfx_riff_54[59136] = { 0 };
+const u8 sfx_riff_55[66816] = { 0 };
+const u8 sfx_riff_57[98048] = { 0 };
+const u8 sfx_riff_58[75008] = { 0 };
+const u8 sfx_riff_60[123136] = { 0 };
+const u8 sfx_riff_64[82176] = { 0 };
+const u8 sfx_riff_65[61184] = { 0 };
+const u8 sfx_riff_67[90880] = { 0 };
+const u8 sfx_riff_72[67328] = { 0 };
+const u8 sfx_riff_73[82688] = { 0 };
+const u8 sfx_riff_76[101120] = { 0 };
+const u8 sfx_riff_77[71936] = { 0 };
+const u8 sfx_riff_80[90880] = { 0 };
+const u8 sfx_riff_81[77568] = { 0 };
+const u8 sfx_riff_83[87808] = { 0 };
+const u8 sfx_riff_87[102656] = { 0 };
+const u8 sfx_riff_89[43776] = { 0 };
+const u8 sfx_riff_8A[107264] = { 0 };
+const u8 sfx_riff_91[100608] = { 0 };
+const u8 sfx_riff_92[65280] = { 0 };
+const u8 sfx_riff_97[101120] = { 0 };
+const u8 sfx_riff_9B[91648] = { 0 };
+const u8 sfx_riff_A7[101632] = { 0 };
+const u8 sfx_riff_B2[57600] = { 0 };
