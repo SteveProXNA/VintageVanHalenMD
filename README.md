@@ -1,6 +1,8 @@
 # Vintage Van Halen
 There's only one way to rock!  Vintage Van Halen celebrates 40x awesome riffs shred by Eddie Van Halen.
 
+![Vintage Van Halen](https://github.com/SteveProXNA/VintageVanHalenMD/blob/main/img/CoverImage.jpg)
+
 ###### RELEASE
 Sunday, 6th December 2020
 
@@ -63,6 +65,7 @@ Plus big shout out to the MegaDrive community for their on line help and support
 @bigevilboss / @matteusbeus / @MoonWatcherMD / @ohsat_games / @SpritesMind
 
 ###### SOCIAL MEDIA
+[![Watch the video](https://i9.ytimg.com/vi/HbVpgp_vRAQ/mq2.jpg?sqp=CITNvv4F&rs=AOn4CLDrR35ssjjvgRFA-kUFocHlcIPe6g)](https://youtu.be/HbVpgp_vRAQ)
 - You Tube https://youtu.be/HbVpgp_vRAQ
 
 ###### DOCUMENTATION
